@@ -1,16 +1,43 @@
-# React + Vite
+# ERPreact
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Versionamento e Distribuição de Software**
 
-Currently, two official plugins are available:
+Projeto desenvolvido com React e Vite.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Tecnologias utilizadas
 
-## React Compiler
+- React
+- JavaScript
+- Vite
+- CSS
+- ESLint
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Como executar o projeto
 
-## Expanding the ESLint configuration
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/larissawest-rgb/ERPreact.git
+   ```
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+2. Entre na pasta:
+   ```bash
+   cd ERPreact
+   ```
+
+3. Instale as dependências:
+   ```bash
+   npm install
+   ```
+
+4. Inicie o projeto:
+   ```bash
+   npm run dev
+   ```
+
+## Sobre o projeto
+
+Projeto acadêmico desenvolvido para a disciplina de Versionamento e Distribuição de Software.
+
+## React + Vite
+
+Este projeto utiliza Vite para disponibilizar um ambiente de desenvolvimento com atualização rápida (HMR) e ESLint para análise de código.
